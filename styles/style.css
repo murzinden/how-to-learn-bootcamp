@@ -220,14 +220,7 @@ p, h1, h2, h3, h4, ul {
   margin-right: 0;
   margin-top: 80px;
 }
-.table__heading {
-}
-.table__heading_theme_dark {
-}
-.table__text {
-}
-.table__text_theme_dark {
-}
+
 .kaufman__triangle {
   position: absolute;
   top: 0;
@@ -255,14 +248,7 @@ p, h1, h2, h3, h4, ul {
   flex-direction: column;
   justify-content: space-between;
 }
-.footer__logo {
-}
-.logo {
-}
-.logo__place {
-}
-.logo__place_footer {
-}
+
 .footer__author {
   line-height: 25px;
   font-size: 18px;
@@ -275,9 +261,7 @@ p, h1, h2, h3, h4, ul {
   font-weight: 600;
   margin-bottom: 20px;
 }
-.footer__column-links  {
 
-}
 .footer__column-links a {
   line-height: 30px;
   font-size: 18px;
@@ -288,10 +272,6 @@ p, h1, h2, h3, h4, ul {
   list-style: none;
 }
 
-.content_social {
-}
-.footer__column-link {
-}
 .footer__column-link li{
   list-style: none;
 }
