@@ -200,13 +200,11 @@ p, h1, h2, h3, h4, ul {
   position: relative;
   overflow: hidden;
 }
-.section__title {
-}
+
 .section__title_theme_dark {
   color: white;
 }
-.section__subtitle {
-}
+
 .section__subtitle_theme_dark {
   color: white;
 }
@@ -214,8 +212,7 @@ p, h1, h2, h3, h4, ul {
   position: relative;
   z-index: 2;
 }
-.table__cell {
-}
+
 /* и элемента с модификатором вида ключ-значение */
 .table__cell_theme_dark {
   width: 200px;
@@ -299,7 +296,6 @@ p, h1, h2, h3, h4, ul {
   list-style: none;
 }
 .footer__column-link a {
-  text-decoration: none;
   line-height: 30px;
   font-size: 18px;
   text-decoration: none;
