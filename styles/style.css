@@ -129,7 +129,10 @@ p, h1, h2, h3, h4, ul {
   justify-content: space-between;
   row-gap: 60px;
   margin: auto;
+  position: relative;
+  z-index: 2;
 }
+
 .table__cell {
   width: 250px;
 }
@@ -186,13 +189,6 @@ p, h1, h2, h3, h4, ul {
   right: 48px;
 }
 
-/* и элемента с модификатором вида ключ-значение */
-.table__cell_theme_dark {
-  width: 200px;
-  color: white;
-  margin-right: 0;
-  margin-top: 80px;
-}
 
 .kaufman {
   padding: 90px 0;
@@ -208,10 +204,7 @@ p, h1, h2, h3, h4, ul {
 .section__subtitle_theme_dark {
   color: white;
 }
-.table {
-  position: relative;
-  z-index: 2;
-}
+
 
 /* и элемента с модификатором вида ключ-значение */
 .table__cell_theme_dark {
