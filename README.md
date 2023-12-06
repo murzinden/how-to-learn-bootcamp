@@ -1,13 +1,10 @@
-# Научиться учиться
-## **Первый учебный проект, который наглядно показывает использование таких технологий как:**
-- Б.Э.М.
-- display:flex
+# Learn to Learn
+## **The First Educational Project that Visually Demonstrates the Use of Technologies Such as:**
+- B.E.M.
+- display: flex
 - position
 - animation
 - iframe
-## Планы по доработке проекта
-**создать форму при помощи тега <form> для ввода:**
-- имени пользователя - type="name"
-- номера телефона - type="tel"
-- полем пароля - type="password"
+
+Link to https://murzinden.github.io/how-to-learn-bootcamp/
 
